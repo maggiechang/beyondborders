@@ -97,8 +97,11 @@ $(function(){
   $(function(){
     jQuery(document).ready(function() {
     $('#home').backstretch([
-       "images/home-bg-slideshow1.jpg", 
-       "images/home-bg-slideshow2.jpg",
+       "http://www.hercampus.com/sites/default/files/2016/09/09/ShowImage.jpeg", 
+       "https://s-media-cache-ak0.pinimg.com/originals/5f/dd/98/5fdd9827de2d6ce36146ff8713af9ac5.jpg",
+       "http://celebritywallpapershq.com/wp-content/uploads/2016/01/Joseph-Gordon-Levitt-Wallpapers-10.jpg",
+       "http://www.reactiongifs.com/wp-content/uploads/2013/11/trre.gif",
+       "http://wallpapersdsc.net/wp-content/uploads/2016/01/Chris-Pratt-Photos.jpg"
         ],  {duration: 2000, fade: 750});
     });
   })
