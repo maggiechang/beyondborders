@@ -106,5 +106,16 @@ $(function(){
     });
   })
 
+  $(function(){
+    jQuery(document).ready(function() {
+    $('#contact').backstretch([
+       "http://www.drodd.com/images13/funny-gifs14.gif",
+       "http://static.spin.com/files/2015/10/Drake-Duck-Hotline-Bling-Gif.gif",
+       "https://media.giphy.com/media/3osxY7eI6enqNBo2mQ/giphy.gif",
+       "http://www.gpwa.org/forum/images/imported/2014/01/funnygifswhennoonesaroundlarge-1.gif"
+        ],  {duration: 2000, fade: 750});
+    });
+  })
+
 });
 
