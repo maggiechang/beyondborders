@@ -109,10 +109,10 @@ $(function(){
   $(function(){
     jQuery(document).ready(function() {
     $('#contact').backstretch([
-       "http://www.drodd.com/images13/funny-gifs14.gif",
-       "http://static.spin.com/files/2015/10/Drake-Duck-Hotline-Bling-Gif.gif",
-       "https://media.giphy.com/media/3osxY7eI6enqNBo2mQ/giphy.gif",
-       "http://www.gpwa.org/forum/images/imported/2014/01/funnygifswhennoonesaroundlarge-1.gif"
+       "http://www.slate.com/content/dam/slate/blogs/wild_things/2015/09/02/150902_WILD_CutePenguins.jpg.CROP.promo-xlarge2.jpg",
+       "http://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-34.jpg",
+       "https://i.ytimg.com/vi/1LqyOX12_nQ/maxresdefault.jpg",
+       "http://kingworldnews.com/wp-content/uploads/2014/12/KWN-Worlds-Cutest-Baby-Animals-3.jpg"
         ],  {duration: 2000, fade: 750});
     });
   })
